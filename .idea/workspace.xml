@@ -307,7 +307,7 @@
       <workItem from="1565224295392" duration="2113000" />
       <workItem from="1565444182997" duration="748000" />
       <workItem from="1565483994233" duration="14000" />
-      <workItem from="1565591227983" duration="1442000" />
+      <workItem from="1565591227983" duration="1682000" />
     </task>
     <task id="LOCAL-00001" summary="create project">
       <created>1565611255965</created>
@@ -323,11 +323,18 @@
       <option name="project" value="LOCAL" />
       <updated>1565614791507</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="create project">
+      <created>1565614851802</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1565614851802</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100708000" />
+    <option name="totallyTimeSpent" value="100948000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -368,6 +375,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create project" />
     <option name="LAST_COMMIT_MESSAGE" value="create project" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/zhuce.html</url>
+          <line>35</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/img/huafei.png">
