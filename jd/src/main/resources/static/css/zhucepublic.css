@@ -1,0 +1,99 @@
+/*注册头部*/
+.zc-head{
+    height: 110px;
+}
+.logo-con{
+    height: 110px;
+    width: 1210px;
+    margin: auto;
+}
+.logo{
+    width: 160px;
+    height: 50px;
+    float: left;
+    margin-top: 24px;
+}
+.logo-title{
+    float: left;
+    height: 34px;
+    line-height: 44px;
+    font-size: 24px;
+    color: #333;
+    margin-top: 34px;
+}
+.have-account{
+    font-size: 16px;
+    float: right;
+    margin-top: 55px;
+    color: #999;
+}
+.have-account a{
+        color: #e22;
+}
+
+.have-account a:hover{
+    color: brown;
+    text-decoration: none;
+}
+
+/*123导航*/
+#zc-body-navigation{
+    width: 412px;
+    height: 55px;
+    position: relative;
+    margin: auto;
+}
+.navigation-step{
+    height: 55px;
+    width: 60px;
+    float: left;
+    text-align: center;
+}
+.step-index{
+    margin: 0 auto;
+    display: block;
+    width: 24px;
+    height: 24px;
+    line-height: 24px;
+    background-position: -45px -200px;
+    font-size: 12px;
+    font-weight: 700;
+    color: #fff;
+    border-radius: 50%;
+    overflow: hidden;
+    background-color: #ccc;
+}
+.step-desc{
+    margin-top: 10px;
+    font-size: 12px;
+}
+.pro-line{
+    left: 55px;
+    width: 124px;
+    background-position: 0 -100px;
+    position: absolute;
+    top: 7px;
+    height: 10px;
+}
+
+/*注册底部*/
+#form-footer{
+    width: 1210px;
+    margin: auto;
+}
+.footer{
+    font-size: 12px;
+    text-align: center;
+    border-top: solid 1px #e6e6e6;
+    color: #999;
+    padding-bottom: 30px;
+}
+.links{
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+
+.footer a {
+    color: #999;
+    margin: 0 10px;
+}
