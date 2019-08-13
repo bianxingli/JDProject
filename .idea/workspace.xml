@@ -195,10 +195,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1280" />
-    <option name="height" value="690" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -310,7 +309,7 @@
       <workItem from="1565224295392" duration="2113000" />
       <workItem from="1565444182997" duration="748000" />
       <workItem from="1565483994233" duration="14000" />
-      <workItem from="1565591227983" duration="3182000" />
+      <workItem from="1565591227983" duration="4765000" />
     </task>
     <task id="LOCAL-00001" summary="create project">
       <created>1565611255965</created>
@@ -358,7 +357,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102448000" />
+    <option name="totallyTimeSpent" value="104031000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
