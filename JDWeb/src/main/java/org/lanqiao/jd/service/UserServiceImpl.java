@@ -1,6 +1,6 @@
 package org.lanqiao.jd.service;
 
-import org.lanqiao.jdlogin.demo.mapper.UserMapper;
+import org.lanqiao.jd.mapper.UserMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

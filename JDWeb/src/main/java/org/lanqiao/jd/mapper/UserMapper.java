@@ -1,6 +1,6 @@
 package org.lanqiao.jd.mapper;
 
-import org.lanqiao.jdlogin.demo.entity.User;
+import org.lanqiao.jd.entity.User;
 import org.springframework.stereotype.Component;
 
 @Component
